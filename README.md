@@ -2,7 +2,7 @@
 - 👀 I’m interested in comunication
 - 🌱 I’m currently learning marketing 
 - 💞️ I’m looking to collaborate on sales
-- 📫 How to reach me on my email joyceguimaraesaraujo@gmail.com
+- 📫 How to reach me: email joyceguimaraesaraujo@gmail.com
 
 <!---
 joyceguimaraes/joyceguimaraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
